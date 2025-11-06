@@ -1,2 +1,4 @@
 # Java-Bank-Simulator
-A console-based Java Banking System demonstrating Object-Oriented Programming concepts.
+The Java Bank Simulator is a console-based application that mimics a simple banking systems.
+
+It lets users create accounts, deposit, withdraw, transfer money, and view transaction histories — all built using Object-Oriented Programming (OOP) principles.
